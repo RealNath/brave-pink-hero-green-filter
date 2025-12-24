@@ -28,9 +28,7 @@ Tested in 2.2.6
 
 ## Demonstration - *Demonstrasi*
 
-[Watch on YouTube](https://youtu.be/rI4zkKNpMBA)
-
-<iframe width="288" height="180" src="https://www.youtube-nocookie.com/embed/rI4zkKNpMBA?si=6nhXD9ZIVND-tlt5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>
+[YouTube](https://youtu.be/rI4zkKNpMBA)
 
 ## Result - *Hasil*
 
