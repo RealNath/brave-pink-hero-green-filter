@@ -26,10 +26,10 @@ Tested in 2.2.6
    python main.py /path/to/image.jpg /path/to/output/image.jpg
    ```
 
-## Result - Hasil
+## Result - *Hasil*
 
-| Image - Gambar | Original - Asli |     Result - Hasil     |
-|----------------|-----------------|------------------------|
-|   image1.jpg   | ![](image1.jpg) | ![](image1_output.jpg) |
-|   image2.jpg   | ![](image2.jpg) | ![](image2_output.jpg) |
-|   image3.jpg   | ![](image3.jpg) | ![](image3_output.jpg) |
+| Image - *Gambar* | Original - *Asli* |    Result - *Hasil*    |
+|------------------|-------------------|------------------------|
+|    image1.jpg    |  ![](image1.jpg)  | ![](image1_output.jpg) |
+|    image2.jpg    |  ![](image2.jpg)  | ![](image2_output.jpg) |
+|    image3.jpg    |  ![](image3.jpg)  | ![](image3_output.jpg) |
