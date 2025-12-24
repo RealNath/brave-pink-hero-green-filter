@@ -1,7 +1,7 @@
 # Brave Pink Hero Green Filter
 
-A very simply Python implementation of the "Brave Pink Hero Green" duotone filter, based on the protests againsts Indonesian government. Less than 50 lines.  
-*Implementasi sederhana filter Brave Pink Hero Green dengan Python. Kurang dari 50 baris.*
+A very simply Python implementation of the "Brave Pink Hero Green" duotone filter, based on the protests againsts Indonesian government. Less than 50 lines. Made by Jonathan Levi.  
+*Implementasi sederhana filter Brave Pink Hero Green dengan Python. Kurang dari 50 baris. Dibuat oleh Jonathan Levi (13523132)*
 
 ## Prerequisites - *Ketentuan*
 
